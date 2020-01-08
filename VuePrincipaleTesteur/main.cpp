@@ -10,7 +10,7 @@
  *
  * Created on 19 décembre 2019, 16:16
  */
-
+#include "VuePrincipale.h"
 #include <QApplication>
 
 int main(int argc, char *argv[]) {
@@ -18,7 +18,8 @@ int main(int argc, char *argv[]) {
     // Q_INIT_RESOURCE(resfile);
 
     QApplication app(argc, argv);
-
+    VuePrincipale *maVuePrincipale = new VuePrincipale();
+    maVuePrincipale->show();
     // create and show your widgets here
 
     return app.exec();
