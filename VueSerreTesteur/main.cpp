@@ -12,7 +12,6 @@
  */
 
 #include <QApplication>
-
 #include "VueSerre.h"
 
 int main(int argc, char *argv[]) {
@@ -22,7 +21,7 @@ int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
     VueSerre *maSerre = new VueSerre();
     maSerre->show();
-    //maSerre->mettreAJour();
+    maSerre->mettreAJour();
     // create and show your widgets here
 
     return app.exec();
