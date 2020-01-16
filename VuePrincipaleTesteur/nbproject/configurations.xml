@@ -8,10 +8,13 @@
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
                    projectFiles="true">
+      <itemPath>VuePrincipale.ui</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>VuePrincipale.cpp.cc</itemPath>
+      <itemPath>VuePrincipale.h</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -39,6 +42,12 @@
       </qt>
       <compileType>
       </compileType>
+      <item path="VuePrincipale.cpp.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="VuePrincipale.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="VuePrincipale.ui" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -66,6 +75,12 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="VuePrincipale.cpp.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="VuePrincipale.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="VuePrincipale.ui" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
