@@ -28,6 +28,8 @@
                    kind="IMPORTANT_FILES_FOLDER">
       <itemPath>Makefile</itemPath>
     </logicalFolder>
+    <itemPath>../ClassesMetier/BulletinMeteo.cpp</itemPath>
+    <itemPath>../ClassesMetier/BulletinMeteo.h</itemPath>
   </logicalFolder>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
@@ -43,6 +45,10 @@
       <compileType>
       </compileType>
       <item path="../../Téléchargements/VueMeteo.ui" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/BulletinMeteo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/BulletinMeteo.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="VueMeteo.cpp.cc" ex="false" tool="1" flavor2="0">
       </item>
@@ -76,6 +82,10 @@
         </asmTool>
       </compileType>
       <item path="../../Téléchargements/VueMeteo.ui" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/BulletinMeteo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/BulletinMeteo.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="VueMeteo.cpp.cc" ex="false" tool="1" flavor2="0">
       </item>
